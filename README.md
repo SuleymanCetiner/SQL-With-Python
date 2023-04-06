@@ -19,3 +19,10 @@ Step 2 : First look to dataset and basic visualizations.
 Step 3 : With multiple tables, intersecting them by "JOIN" clause.
 
 Step 4 : After query, if any special case, focusing on the reasons by statistical testing,visualizing etc.
+
+
+For this analysis, we used football ligues dataset. It can be reachable from Kaggle.
+
+We just trying to perform some filters, some merging operations and renaming group by operations.
+
+Query lists the results in desired format.
