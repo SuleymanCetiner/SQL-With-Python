@@ -20,8 +20,15 @@ Step 3 : With multiple tables, intersecting them by "JOIN" clause.
 
 Step 4 : After query, if any special case, focusing on the reasons by statistical testing,visualizing etc.
 
+![dataset-cover](https://user-images.githubusercontent.com/38746955/230405809-e12d38e0-651d-41cd-bb53-237121b5ea37.jpg)
+
 
 For this analysis, we used football ligues dataset. It can be reachable from Kaggle.
+
+By the way,there are lots of courses that even do not do this type of analysis.
+
+https://www.kaggle.com/datasets/hugomathien/soccer
+
 
 We just trying to perform some filters, some merging operations and renaming group by operations.
 
